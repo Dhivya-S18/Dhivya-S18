@@ -76,7 +76,7 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 
 ## 🏆 Competitive Programming
 
-🏆 Skillrack Rank **#436**
+🏆 **Skillrack Rank #436**
 <br>
 🔥 **3100+ Programs Solved**
 <br>
