@@ -27,6 +27,7 @@
 
 <br>
 <br>
+
 ## 🚀 Projects
 
 ### 🎓 Choice Based Credit System (CBCS)
@@ -77,9 +78,13 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 ## 🏆 Competitive Programming
 
 🏆 Skillrack Rank **#436**
+<br>
 🔥 **3100+ Programs Solved**
+<br>
 💻 **409 LeetCode Problems Solved**
+<br>
 📅 **214 Active Days**
+<br>
 🏅 **50 Days Badge 2026**
 <br>
 <br>
