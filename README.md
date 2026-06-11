@@ -4,8 +4,9 @@
 
 🎓 B.E Computer Science & Engineering @ National Engineering College
 📈 CGPA: **8.59 / 10**
+<br>
 🚀 Passionate about building real-world applications and solving challenging problems
-
+<br>
 ## 🛠️ Tech Stack
 
 💻 **Languages**
@@ -23,9 +24,7 @@
 🧰 **Tools**
 `Git` `GitHub` `Postman` `VS Code` `Eclipse`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,postman,vscode" />
-</p>
+<br>
 
 ## 🚀 Projects
 
@@ -58,7 +57,7 @@ Portfolio showcasing projects, skills, and achievements.
 `C++` `OOP`
 
 Booking and customer management system.
-
+<br>
 ## 💼 Experience
 
 ### Web Development Intern — Codesoft
@@ -71,7 +70,7 @@ Booking and customer management system.
 
 📜 Certificate
 https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
-
+<br>
 ## 🏆 Competitive Programming
 
 🏆 Skillrack Rank **#436**
@@ -79,7 +78,7 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 💻 **409 LeetCode Problems Solved**
 📅 **214 Active Days**
 🏅 **50 Days Badge 2026**
-
+<br>
 ## 🤝 Connect With Me
 
 <p align="center">
