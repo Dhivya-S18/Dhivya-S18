@@ -3,6 +3,7 @@
 ### Full Stack Developer | Competitive Programmer | CSE Student
 
 🎓 B.E Computer Science & Engineering @ National Engineering College
+<br>
 📈 CGPA: **8.59 / 10**
 <br>
 🚀 Passionate about building real-world applications and solving challenging problems
@@ -25,7 +26,7 @@
 `Git` `GitHub` `Postman` `VS Code` `Eclipse`
 
 <br>
-
+<br>
 ## 🚀 Projects
 
 ### 🎓 Choice Based Credit System (CBCS)
@@ -58,6 +59,7 @@ Portfolio showcasing projects, skills, and achievements.
 
 Booking and customer management system.
 <br>
+<br>
 ## 💼 Experience
 
 ### Web Development Intern — Codesoft
@@ -71,6 +73,7 @@ Booking and customer management system.
 📜 Certificate
 https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 <br>
+<br>
 ## 🏆 Competitive Programming
 
 🏆 Skillrack Rank **#436**
@@ -78,6 +81,7 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 💻 **409 LeetCode Problems Solved**
 📅 **214 Active Days**
 🏅 **50 Days Badge 2026**
+<br>
 <br>
 ## 🤝 Connect With Me
 
