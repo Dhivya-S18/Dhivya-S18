@@ -5,11 +5,6 @@
 🎓 B.E Computer Science & Engineering @ National Engineering College
 
 📈 CGPA: **8.59 / 10**
-
-🏆 Skillrack Rank **#436** • 🔥 **3100+ Programs Solved**
-
-💻 **409 LeetCode Problems Solved**
-
 🚀 Passionate about building real-world applications and solving challenging problems
 
 
@@ -39,7 +34,10 @@
 
 
 
+
+
 ## 🚀 Projects
+
 
 ### 🎓 Choice Based Credit System (CBCS)
 
@@ -47,11 +45,13 @@
 
 Course allocation platform with role-based access and REST APIs.
 
+
 ### 🏫 Campus Club & Event Management System
 
 `MongoDB` `Express.js` `React.js` `Node.js`
 
 Event and club management system for students, staff, and HODs.
+
 
 ### 🏥 Hospital Management System
 
@@ -59,11 +59,13 @@ Event and club management system for students, staff, and HODs.
 
 Role-based login, appointment booking, and patient management.
 
+
 ### 🌐 Personal Portfolio
 
 `HTML` `CSS` `JavaScript`
 
 Portfolio showcasing projects, skills, and achievements.
+
 
 ### 🎫 Tour Booking Management System
 
@@ -87,7 +89,9 @@ Booking and customer management system.
 
 https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 
----
+
+
+
 
 ## 🏆 Competitive Programming
 
@@ -101,23 +105,11 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 
 🏅 **50 Days Badge 2026**
 
-### 📸 Profile Highlights
-
-<p align="center">
-  <img src="./assets/leetcode.png" width="48%" />
-  <img src="./assets/skillrack.png" width="48%" />
-</p>
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhivya-S18&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya-S18&layout=compact&theme=tokyonight" />
-</p>
 
----
 
 ## 🤝 Connect With Me
 
