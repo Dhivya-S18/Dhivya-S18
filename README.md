@@ -24,8 +24,8 @@
 
 🧰 **Tools**
 `Git` `GitHub` `Postman` `VS Code` `Eclipse`
-
 <br>
+
 ## 🚀 Projects
 
 ### 🎓 Choice Based Credit System (CBCS)
