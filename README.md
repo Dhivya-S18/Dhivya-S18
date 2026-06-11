@@ -1,6 +1,6 @@
 # Hi 👋 I'm Dhivya S
 
-### Full Stack Developer • Competitive Programmer • CSE Student
+### Full Stack Developer | Competitive Programmer | CSE Student
 
 🎓 B.E Computer Science & Engineering @ National Engineering College
 
@@ -36,9 +36,8 @@
 
 `Git` `GitHub` `Postman` `VS Code` `Eclipse`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,postman,vscode" />
-</p>
+
+
 
 ## 🚀 Projects
 
@@ -72,7 +71,7 @@ Portfolio showcasing projects, skills, and achievements.
 
 Booking and customer management system.
 
----
+
 
 ## 💼 Experience
 
@@ -109,7 +108,7 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
   <img src="./assets/skillrack.png" width="48%" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -141,18 +140,3 @@ https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 </p>
 
 
-
-## 🤝 Connect With Me
-
-🌐 Portfolio
-https://dhivyas-portfolio-xflw.onrender.com
-
-💼 LinkedIn
-https://www.linkedin.com/in/dhivya-s-a20917289/
-
-📧 Email
-[divya965517@gmail.com](mailto:divya965517@gmail.com)
-
--
-
-⭐ *Always learning, always building.*
