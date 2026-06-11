@@ -1,36 +1,44 @@
 # Hi 👋 I'm Dhivya S
 
-### Full Stack Developer | Competitive Programmer | CSE Student
+### Full Stack Developer • Competitive Programmer • CSE Student
 
 🎓 B.E Computer Science & Engineering @ National Engineering College
-🏆 Skillrack Rank #436 | 3100+ Programs Solved
-💻 409 LeetCode Problems Solved
-📈 CGPA: 8.59 / 10
-🚀 Passionate about building real-world applications and solving problems
+
+📈 CGPA: **8.59 / 10**
+
+🏆 Skillrack Rank **#436** • 🔥 **3100+ Programs Solved**
+
+💻 **409 LeetCode Problems Solved**
+
+🚀 Passionate about building real-world applications and solving challenging problems
+
 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
 `Java` `JavaScript` `C` `C++`
 
-**Frontend**
+### 🎨 Frontend
 
 `HTML` `CSS` `React.js`
 
-**Backend**
+### ⚙️ Backend
 
-`Node.js` `Express.js`
+`Node.js` `Express.js` `Spring Boot`
 
-**Database**
+### 🗄️ Database
 
 `MongoDB` `MySQL`
 
-**Tools**
+### 🧰 Tools
 
 `Git` `GitHub` `Postman` `VS Code` `Eclipse`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,postman,vscode" />
+</p>
 
 ## 🚀 Projects
 
@@ -56,47 +64,81 @@ Role-based login, appointment booking, and patient management.
 
 `HTML` `CSS` `JavaScript`
 
-Responsive portfolio showcasing projects, skills, and achievements.
+Portfolio showcasing projects, skills, and achievements.
 
 ### 🎫 Tour Booking Management System
 
 `C++` `OOP`
 
-Booking and customer management system using object-oriented concepts.
+Booking and customer management system.
 
+---
 
 ## 💼 Experience
 
 ### Web Development Intern — Codesoft
 
-**Duration:** 1 Month
+📅 Duration: **1 Month**
 
-* Built Calculator, Loading Page, and Portfolio Website
-* Worked with DOM Manipulation and Event Handling
+* Built Calculator, Loading Page, and Personal Portfolio Website
+* Applied DOM Manipulation and Event Handling
 * Developed responsive and interactive web interfaces
 
-📜 Certificate:
+📜 Certificate
+
 https://drive.google.com/file/d/17OzYvCfcrZzMeT_K4BKmIEfWjpcdxhbe/view
 
+---
 
 ## 🏆 Competitive Programming
 
-* 🏆 Skillrack Rank #436
-* 🔥 3100+ Programs Solved
-* 💻 409 LeetCode Problems Solved
-* 📅 214 Active Days
-* 🏅 50 Days Badge 2026
+🏆 Skillrack Rank **#436**
 
-🔗 LeetCode: https://leetcode.com/u/Dhivya-S18/
+🔥 **3100+ Programs Solved**
 
-🔗 Skillrack: https://www.skillrack.com/faces/resume.xhtml?id=440602&key=67cb021fa9074224ae11f22c5c2a78f62a131b51
+💻 **409 LeetCode Problems Solved**
 
+📅 **214 Active Days**
+
+🏅 **50 Days Badge 2026**
+
+### 📸 Profile Highlights
+
+<p align="center">
+  <img src="./assets/leetcode.png" width="48%" />
+  <img src="./assets/skillrack.png" width="48%" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dhivya-S18\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhivya-S18&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya-S18&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivya-S18\&layout=compact\&theme=tokyonight)
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://dhivyas-portfolio-xflw.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dhivya-s-a20917289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:divya965517@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+⭐ Always learning, always building.
+</p>
 
 
 
